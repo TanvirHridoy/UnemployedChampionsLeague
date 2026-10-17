@@ -1,0 +1,6 @@
+{
+  "name": "Unemployed Champions League (UCL) — Season 3",
+  "description": "Tournament management hub for UCL Season 3 featuring 14 European clubs across 3 seeding pots, 11 matchdays, live dynamic standings, detailed match event logging, player stats leaderboards, and 2-leg knockout bracket with aggregate scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
